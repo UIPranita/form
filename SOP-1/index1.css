@@ -1,0 +1,17 @@
+body{
+background-image: linear-gradient(to bottom right, grey, white);
+}
+h1{color: #aa3d1a}
+p.a{font-family: Times New Roman;font-size:20}
+
+p.b{font-family: Arial;font-size:20}
+
+p.c{font-family: Arial;font-size:20}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
